@@ -4,3 +4,6 @@
 [submodule "RSyslog"]
 	path = RSyslog
 	url = https://github.com/cmlsgmv/RSyslog.git
+[submodule "Correlation_rules"]
+	path = Correlation_rules
+	url = https://github.com/cmlsgmv/Correlation_rules.git
