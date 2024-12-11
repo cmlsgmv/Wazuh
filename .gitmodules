@@ -7,3 +7,6 @@
 [submodule "Correlation_rules"]
 	path = Correlation_rules
 	url = https://github.com/cmlsgmv/Correlation_rules.git
+[submodule "Example"]
+	path = Example
+	url = https://github.com/cmlsgmv/Example.git
